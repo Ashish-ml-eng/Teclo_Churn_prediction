@@ -17,7 +17,7 @@ The goal: identify which customers are likely to leave, and why.
 | File | Description |
 |---|---|
 | `Telco_churn.ipynb` | Core ML pipeline — EDA, preprocessing, modeling, tuning |
-| `Streamlit.ipynb` | Interactive web app for real-time predictions |
+| `app.py` | Interactive web app for real-time predictions |
 | `Telco_visualization.pbix` | Power BI dashboard for business reporting |
 
 ---
